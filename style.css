@@ -1,0 +1,25 @@
+* {
+	font-family: 'Open Sans', sans-serif;
+}
+
+p {
+	font-family: 'Raleway', sans-serif;
+}
+
+.content__subtitle {
+	font-weight: 300;
+}
+
+.grim__item-inner h3,
+span {
+	color: #fff;
+}
+
+#content-5 {
+	background-color: rgba(0,0,0,.80);
+	color: #fff;
+}
+
+#content-5 p {
+	width: 80%;	
+}

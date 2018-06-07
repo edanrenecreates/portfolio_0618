@@ -15,11 +15,14 @@ span {
 	color: #fff;
 }
 
+#content-3 h3 {
+	color: pink;
+}
+
 #content-5 {
-	background-color: rgba(0,0,0,.80);
 	color: #fff;
 }
 
 #content-5 p {
-	width: 80%;	
+	width: 80%;
 }

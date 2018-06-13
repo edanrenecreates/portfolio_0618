@@ -15,8 +15,8 @@ span {
 	color: #fff;
 }
 
-#content-3 h3 {
-	color: pink;
+#portfolio h3, span{
+	color: #000;
 }
 
 #content-5 {
@@ -26,3 +26,61 @@ span {
 #content-5 p {
 	width: 80%;
 }
+
+#contact-form {
+	text-align: center;
+	margin-top: 25px;
+	width: 400px;
+	color: #fff;
+}
+
+#name,
+#email,
+#message {
+	width: 100%;
+}
+
+.form-group {
+	text-align: left;
+}
+
+#contact-form .btn {
+	background-color: transparent;
+	color: #ffffff	;
+	border: 2px solid #fff;
+	border-radius: 30px; 
+	margin: 30px 0 0;
+	text-align: center;
+}
+
+#contact-form .btn:hover {
+	color: #000;
+	background-color: #fff;
+	border: 1px solid #fff;
+}
+
+#contact-form i {
+	color: #fff;
+	font-size: 30px;
+	margin-left: 10px;
+}
+
+#contact-form .fa-github-square:hover {
+	color: #000;
+}
+
+#contact-form .fa-twitter-square:hover {
+	color: #1da1f2;
+}
+
+#contact-form .fa-facebook-square:hover {
+	color: #3b5998;
+}
+
+#contact-form .social {
+	margin: 50px 5px 0 0;
+}
+
+
+
+
